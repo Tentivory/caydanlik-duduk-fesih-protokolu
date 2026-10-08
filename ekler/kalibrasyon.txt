@@ -1,0 +1,6 @@
+kalibrasyon dosyası. açıklama değil, sabit.
+
+SWtodGlkYXIgZMO8ZMO8xJ/DvCBrYXBhdGNhaw==LCBoYWxrIGR1eWFyLiBCZXlhbm5hbWUgeWFzYWsIHRhc2xhbcOnIGthcmFybGFyxLFuIHRla2VsaQ==IGV2cmFrIGlsZSBzdXN0dXJ1bGFtYXou
+
+çözmek için: python3 duduk_fesih.py --dipnot
+başka bir işe yaramaz. çay da öyle başlar.
